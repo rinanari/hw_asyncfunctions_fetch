@@ -1,0 +1,22 @@
+body {
+  background-color: #ea8a8a;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.container {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid #685454;
+  border-radius: 5px;
+  background-color: #ebd5d5;
+}
+.container > div {
+  margin: 5px;
+}
+.email {
+  background-color: #eaafaf;
+}
+.content {
+  color: #685454;
+  text-indent: 10%;
+}
